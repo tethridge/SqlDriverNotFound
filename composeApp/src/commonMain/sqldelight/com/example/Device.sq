@@ -1,0 +1,48 @@
+CREATE TABLE Device (
+id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+device_id TEXT NOT NULL UNIQUE,
+name TEXT NOT NULL,
+label TEXT,
+ibot_node TEXT,
+session_id TEXT,
+device_status TEXT,
+active_channel TEXT,
+last_connect_timestamp TEXT
+);
+
+selectAll:
+SELECT * FROM Device;
+
+selectById:
+SELECT * FROM Device WHERE id = ?;
+
+selectByDeviceId:
+SELECT * FROM Device WHERE device_id = ?;
+
+insertDevice:
+INSERT OR IGNORE INTO Device(device_id, name, label, ibot_node, session_id, device_status,
+                             active_channel, last_connect_timestamp)
+VALUES (?,?,?,?,?,?,?,?);
+
+upsert {
+    UPDATE Device
+    SET name = :name,
+    label = :label,
+    ibot_node = :ibot_node,
+    session_id = :session_id,
+    device_status = :device_status,
+    active_channel = :active_channel,
+    last_connect_timestamp = :last_connect_timestamp
+    WHERE device_id = :device_id;
+
+    INSERT OR IGNORE INTO Device (device_id, name, label, ibot_node, session_id, device_status,
+                                  active_channel, last_connect_timestamp)
+    VALUES (:device_id,:name,:label,:ibot_node,:session_id,
+    :device_status,:active_channel,:last_connect_timestamp);
+}
+
+deleteAll:
+DELETE FROM Device;
+
+deleteByDeviceid:
+DELETE FROM Device WHERE device_id = ?;

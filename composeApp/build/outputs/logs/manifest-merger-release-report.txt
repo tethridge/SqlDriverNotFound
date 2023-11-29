@@ -1,0 +1,293 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+MERGED from [app.cash.sqldelight:android-driver:2.0.0] /Users/tethridge/.gradle/caches/transforms-3/8203f49c2d482759654948bdbbb6aecf/transformed/android-driver-2.0.0-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/6f3541eded6c558a4a4041fd9de2c671/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] /Users/tethridge/.gradle/caches/transforms-3/b6aefb127b17a2188ac14f4120cef86b/transformed/activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/tethridge/.gradle/caches/transforms-3/a5f4aaa9147142962c68c099d3c59dc2/transformed/activity-ktx-1.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.1] /Users/tethridge/.gradle/caches/transforms-3/11bc58687ea1d2fc99a3b61aeb858d8c/transformed/activity-compose-1.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:library-android:1.5.10] /Users/tethridge/.gradle/caches/transforms-3/0f5bfd13e7aabbedd086f19da3a472d6/transformed/library-release/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/dd8a786fee3cfee22af7042edf53c3fd/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/345e6ed9d681a94b0bb6ef2e06d3aeb2/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/7f208cf198f9d15d3cca42725b4a1469/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/13d38b7aa32adecb26186e247f261347/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/1c6f1d66830e057ef6706854e9296ba8/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/c3e8a5a78c8a7afdb04511bf77fbf2ba/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/d1ecd83129e2d80dba513ac4b59ea652/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/daaa9ae64a14cdcb89b3f90e0bfa1f66/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/9525650e39ad6bc8ad4c30bbcc934b2d/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/ce22b291405353fbde76f863df5aa210/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/f4dc9a68c59afe8669506ddfb5801203/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/391fcd019a6289e25d0fca69ec6f27f4/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/027fd314d04b4bb921903dd360cc62d6/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/tethridge/.gradle/caches/transforms-3/d79a34a716343148d641966cbe5361bc/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/tethridge/.gradle/caches/transforms-3/34bb4b1852126b813d3ec015fc95b207/transformed/sqlite-2.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/90c64c1e711b33b269c091173c562803/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/36b9250c25021762abc5f663f54d6db2/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/tethridge/.gradle/caches/transforms-3/bc1a966301cbba8f0ae0dbbc33c289c0/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/tethridge/.gradle/caches/transforms-3/70380576ce79015629008e2df9cba835/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/tethridge/.gradle/caches/transforms-3/11e0ad8afff628a8e627a308edc7d3ff/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/tethridge/.gradle/caches/transforms-3/c5a5cee8ae7e1fd4eec803db2d294c3f/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/tethridge/.gradle/caches/transforms-3/9da0af56b4325f112ee296ac3bd5863c/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/eb08076086a707751ccea9c3419bc2c2/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/261d37d82df66e49dd4770e91ba89443/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/645bb257bac68976a78b0ae51273c0c1/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/215b45a87dc249b804cfacaefd3aefa6/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/77966bdbcc47b584ff4d7af68003eb49/transformed/core-ktx-1.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/adf2813e4d5e2f90b58ac13d1e950c42/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/5bfcc70b6c3e17839e2ab19a1a4c6ea2/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/ec2a429bb7bbf5e61389857c96e9f28b/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/dbaa21e857169ee57d9a438230c10cda/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tethridge/.gradle/caches/transforms-3/11acd16e79206be9b074fd0f0ebf2426/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tethridge/.gradle/caches/transforms-3/b7b1e9a70a06f3607e5b49184d962d3b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/tethridge/.gradle/caches/transforms-3/aa9511aa87e0c27812fbd157ca3b5bbc/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tethridge/.gradle/caches/transforms-3/14755b8e474db5715d1a77086ca22d37/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tethridge/.gradle/caches/transforms-3/c7260e8bdae749eee082ef4e1acf8ba7/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
+INJECTED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/tethridge/.gradle/caches/transforms-3/9da0af56b4325f112ee296ac3bd5863c/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/tethridge/.gradle/caches/transforms-3/9da0af56b4325f112ee296ac3bd5863c/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/eb08076086a707751ccea9c3419bc2c2/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/eb08076086a707751ccea9c3419bc2c2/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tethridge/.gradle/caches/transforms-3/b7b1e9a70a06f3607e5b49184d962d3b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tethridge/.gradle/caches/transforms-3/b7b1e9a70a06f3607e5b49184d962d3b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tethridge/.gradle/caches/transforms-3/14755b8e474db5715d1a77086ca22d37/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tethridge/.gradle/caches/transforms-3/14755b8e474db5715d1a77086ca22d37/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:10:9-72
+activity#com.example.MainActivity
+ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:11:9-20:20
+	android:exported
+		ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:12:13-36
+	android:configChanges
+		ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:13:13-225
+	android:name
+		ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml
+MERGED from [app.cash.sqldelight:android-driver:2.0.0] /Users/tethridge/.gradle/caches/transforms-3/8203f49c2d482759654948bdbbb6aecf/transformed/android-driver-2.0.0-release/AndroidManifest.xml:5:5-44
+MERGED from [app.cash.sqldelight:android-driver:2.0.0] /Users/tethridge/.gradle/caches/transforms-3/8203f49c2d482759654948bdbbb6aecf/transformed/android-driver-2.0.0-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/6f3541eded6c558a4a4041fd9de2c671/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/6f3541eded6c558a4a4041fd9de2c671/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/tethridge/.gradle/caches/transforms-3/b6aefb127b17a2188ac14f4120cef86b/transformed/activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/tethridge/.gradle/caches/transforms-3/b6aefb127b17a2188ac14f4120cef86b/transformed/activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/tethridge/.gradle/caches/transforms-3/a5f4aaa9147142962c68c099d3c59dc2/transformed/activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/tethridge/.gradle/caches/transforms-3/a5f4aaa9147142962c68c099d3c59dc2/transformed/activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] /Users/tethridge/.gradle/caches/transforms-3/11bc58687ea1d2fc99a3b61aeb858d8c/transformed/activity-compose-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] /Users/tethridge/.gradle/caches/transforms-3/11bc58687ea1d2fc99a3b61aeb858d8c/transformed/activity-compose-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:library-android:1.5.10] /Users/tethridge/.gradle/caches/transforms-3/0f5bfd13e7aabbedd086f19da3a472d6/transformed/library-release/AndroidManifest.xml:5:5-7:41
+MERGED from [org.jetbrains.compose.components:library-android:1.5.10] /Users/tethridge/.gradle/caches/transforms-3/0f5bfd13e7aabbedd086f19da3a472d6/transformed/library-release/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/dd8a786fee3cfee22af7042edf53c3fd/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/dd8a786fee3cfee22af7042edf53c3fd/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/345e6ed9d681a94b0bb6ef2e06d3aeb2/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/345e6ed9d681a94b0bb6ef2e06d3aeb2/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/7f208cf198f9d15d3cca42725b4a1469/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/7f208cf198f9d15d3cca42725b4a1469/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/13d38b7aa32adecb26186e247f261347/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/13d38b7aa32adecb26186e247f261347/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/1c6f1d66830e057ef6706854e9296ba8/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/1c6f1d66830e057ef6706854e9296ba8/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/c3e8a5a78c8a7afdb04511bf77fbf2ba/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/c3e8a5a78c8a7afdb04511bf77fbf2ba/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/d1ecd83129e2d80dba513ac4b59ea652/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/d1ecd83129e2d80dba513ac4b59ea652/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/daaa9ae64a14cdcb89b3f90e0bfa1f66/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/daaa9ae64a14cdcb89b3f90e0bfa1f66/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/9525650e39ad6bc8ad4c30bbcc934b2d/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/9525650e39ad6bc8ad4c30bbcc934b2d/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/ce22b291405353fbde76f863df5aa210/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/ce22b291405353fbde76f863df5aa210/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/f4dc9a68c59afe8669506ddfb5801203/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/f4dc9a68c59afe8669506ddfb5801203/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/391fcd019a6289e25d0fca69ec6f27f4/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/391fcd019a6289e25d0fca69ec6f27f4/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/027fd314d04b4bb921903dd360cc62d6/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/027fd314d04b4bb921903dd360cc62d6/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/tethridge/.gradle/caches/transforms-3/d79a34a716343148d641966cbe5361bc/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/tethridge/.gradle/caches/transforms-3/d79a34a716343148d641966cbe5361bc/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/tethridge/.gradle/caches/transforms-3/34bb4b1852126b813d3ec015fc95b207/transformed/sqlite-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/tethridge/.gradle/caches/transforms-3/34bb4b1852126b813d3ec015fc95b207/transformed/sqlite-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/90c64c1e711b33b269c091173c562803/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/90c64c1e711b33b269c091173c562803/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/36b9250c25021762abc5f663f54d6db2/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/tethridge/.gradle/caches/transforms-3/36b9250c25021762abc5f663f54d6db2/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/tethridge/.gradle/caches/transforms-3/bc1a966301cbba8f0ae0dbbc33c289c0/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/tethridge/.gradle/caches/transforms-3/bc1a966301cbba8f0ae0dbbc33c289c0/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/tethridge/.gradle/caches/transforms-3/70380576ce79015629008e2df9cba835/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/tethridge/.gradle/caches/transforms-3/70380576ce79015629008e2df9cba835/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/tethridge/.gradle/caches/transforms-3/11e0ad8afff628a8e627a308edc7d3ff/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/tethridge/.gradle/caches/transforms-3/11e0ad8afff628a8e627a308edc7d3ff/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/tethridge/.gradle/caches/transforms-3/c5a5cee8ae7e1fd4eec803db2d294c3f/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/tethridge/.gradle/caches/transforms-3/c5a5cee8ae7e1fd4eec803db2d294c3f/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/tethridge/.gradle/caches/transforms-3/9da0af56b4325f112ee296ac3bd5863c/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/tethridge/.gradle/caches/transforms-3/9da0af56b4325f112ee296ac3bd5863c/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/eb08076086a707751ccea9c3419bc2c2/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/eb08076086a707751ccea9c3419bc2c2/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/261d37d82df66e49dd4770e91ba89443/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/261d37d82df66e49dd4770e91ba89443/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/645bb257bac68976a78b0ae51273c0c1/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/645bb257bac68976a78b0ae51273c0c1/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/215b45a87dc249b804cfacaefd3aefa6/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/215b45a87dc249b804cfacaefd3aefa6/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/77966bdbcc47b584ff4d7af68003eb49/transformed/core-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/77966bdbcc47b584ff4d7af68003eb49/transformed/core-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/adf2813e4d5e2f90b58ac13d1e950c42/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/adf2813e4d5e2f90b58ac13d1e950c42/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/5bfcc70b6c3e17839e2ab19a1a4c6ea2/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/5bfcc70b6c3e17839e2ab19a1a4c6ea2/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/ec2a429bb7bbf5e61389857c96e9f28b/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/ec2a429bb7bbf5e61389857c96e9f28b/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/dbaa21e857169ee57d9a438230c10cda/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/dbaa21e857169ee57d9a438230c10cda/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tethridge/.gradle/caches/transforms-3/11acd16e79206be9b074fd0f0ebf2426/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tethridge/.gradle/caches/transforms-3/11acd16e79206be9b074fd0f0ebf2426/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tethridge/.gradle/caches/transforms-3/b7b1e9a70a06f3607e5b49184d962d3b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tethridge/.gradle/caches/transforms-3/b7b1e9a70a06f3607e5b49184d962d3b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/tethridge/.gradle/caches/transforms-3/aa9511aa87e0c27812fbd157ca3b5bbc/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/tethridge/.gradle/caches/transforms-3/aa9511aa87e0c27812fbd157ca3b5bbc/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tethridge/.gradle/caches/transforms-3/14755b8e474db5715d1a77086ca22d37/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tethridge/.gradle/caches/transforms-3/14755b8e474db5715d1a77086ca22d37/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tethridge/.gradle/caches/transforms-3/c7260e8bdae749eee082ef4e1acf8ba7/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tethridge/.gradle/caches/transforms-3/c7260e8bdae749eee082ef4e1acf8ba7/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tethridge/Projects/SqlDriverNotFound/composeApp/src/androidMain/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/tethridge/.gradle/caches/transforms-3/9da0af56b4325f112ee296ac3bd5863c/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/eb08076086a707751ccea9c3419bc2c2/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/eb08076086a707751ccea9c3419bc2c2/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tethridge/.gradle/caches/transforms-3/14755b8e474db5715d1a77086ca22d37/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tethridge/.gradle/caches/transforms-3/14755b8e474db5715d1a77086ca22d37/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/tethridge/.gradle/caches/transforms-3/9da0af56b4325f112ee296ac3bd5863c/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/tethridge/.gradle/caches/transforms-3/9da0af56b4325f112ee296ac3bd5863c/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/tethridge/.gradle/caches/transforms-3/9da0af56b4325f112ee296ac3bd5863c/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/tethridge/.gradle/caches/transforms-3/9da0af56b4325f112ee296ac3bd5863c/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/tethridge/.gradle/caches/transforms-3/9da0af56b4325f112ee296ac3bd5863c/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/tethridge/.gradle/caches/transforms-3/9da0af56b4325f112ee296ac3bd5863c/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/tethridge/.gradle/caches/transforms-3/9da0af56b4325f112ee296ac3bd5863c/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/eb08076086a707751ccea9c3419bc2c2/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/eb08076086a707751ccea9c3419bc2c2/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tethridge/.gradle/caches/transforms-3/eb08076086a707751ccea9c3419bc2c2/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
+permission#com.example.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/tethridge/.gradle/caches/transforms-3/b7415c663c5218ddfa6286d598a7f550/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tethridge/.gradle/caches/transforms-3/820982f9f361def9153bff211b8850cc/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

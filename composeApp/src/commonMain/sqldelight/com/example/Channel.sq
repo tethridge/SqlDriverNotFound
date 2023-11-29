@@ -1,0 +1,47 @@
+CREATE TABLE Channel (
+id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+channel_id TEXT NOT NULL,
+device_id TEXT NOT NULL,
+name TEXT NOT NULL,
+type TEXT NOT NULL,
+type_id TEXT NOT NULL,
+catalog_type TEXT,
+force_switch_on_page INTEGER DEFAULT 0,
+is_hidden INTEGER DEFAULT 0,
+color TEXT
+);
+
+CREATE INDEX Channel_device_id ON Channel(device_id);
+CREATE INDEX Channel_channel_id ON Channel(channel_id);
+CREATE INDEX Channel_device_id_name ON Channel(device_id, name);
+
+selectByDeviceId:
+SELECT *
+FROM Channel
+WHERE device_id = ?;
+
+selectByChannelId:
+SELECT *
+FROM Channel
+WHERE channel_id = ?;
+
+selectVisibleChannels:
+SELECT *
+FROM Channel
+WHERE device_id = ? AND is_hidden = FALSE;
+
+select:
+SELECT *
+FROM Channel
+WHERE device_id = ? AND name = ?;
+
+insert:
+INSERT INTO Channel (channel_id, device_id, name, type, type_id, catalog_type, force_switch_on_page, is_hidden, color)
+VALUES (?,?,?,?,?,?,?,?, ?);
+
+deleteByDeviceId:
+DELETE FROM Channel
+WHERE device_id = ?;
+
+deleteAll:
+DELETE FROM Channel;
